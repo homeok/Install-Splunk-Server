@@ -76,3 +76,22 @@ Project consists of a simple install of Splunk, a SIEM, on an Unbuntu Server.
 
 <h2>Steps</h2>
 
+
+
+
+
+- Ubuntu Server is installed
+
+
+<img width="734" height="609" alt="Screenshot 2025-09-27 171337" src="https://github.com/user-attachments/assets/dbbe66d7-5093-4184-9f97-9e0ad29b05d1" />
+
+
+- Installing a GUI using tasksel
+
+<img width="534" height="62" alt="Screenshot 2025-09-27 171710" src="https://github.com/user-attachments/assets/1692d6d4-2726-4c9f-a011-e0d2da493734" />
+
+<img width="670" height="61" alt="Screenshot 2025-09-27 171908" src="https://github.com/user-attachments/assets/a16137ce-e847-42c1-b2b8-e2c327aa44a5" />
+<img width="990" height="678" alt="Screenshot 2025-09-27 172421" src="https://github.com/user-attachments/assets/a35f5ab0-6996-4c51-9152-aade672676df" />
+
+- 
+
