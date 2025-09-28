@@ -93,5 +93,30 @@ Project consists of a simple install of Splunk, a SIEM, on an Unbuntu Server.
 <img width="670" height="61" alt="Screenshot 2025-09-27 171908" src="https://github.com/user-attachments/assets/a16137ce-e847-42c1-b2b8-e2c327aa44a5" />
 <img width="990" height="678" alt="Screenshot 2025-09-27 172421" src="https://github.com/user-attachments/assets/a35f5ab0-6996-4c51-9152-aade672676df" />
 
-- 
+- Download Splunk
+
+
+<img width="1201" height="517" alt="Screenshot 2025-09-27 174250" src="https://github.com/user-attachments/assets/708d1c03-5cb3-4fc2-85a4-e8ac78fa8aaa" />
+
+- Unzip the download and go to bin directory to start instance of splunk
+- setup administrator account
+
+
+<img width="1035" height="169" alt="Screenshot 2025-09-27 175029" src="https://github.com/user-attachments/assets/c6378344-b4c1-4160-a9b3-719473cdf3dd" />
+
+
+- Now logged into the admin interface
+
+
+<img width="1035" height="169" alt="Screenshot 2025-09-27 175029" src="https://github.com/user-attachments/assets/beabf232-2de8-486d-acc9-371e1d6767e8" />
+
+
+- Ran into a problem being able to access the internet from Domain Controller
+- Setup firewall rules in PfSense for VictimNetwork interface
+
+<img width="1290" height="593" alt="Screenshot 2025-09-27 192734" src="https://github.com/user-attachments/assets/0880c34f-a458-4958-9508-d84baef8b46c" />
+
+
+
+
 
